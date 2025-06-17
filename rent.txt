@@ -1,2 +1,1 @@
-"i want to view the rental properties near WD17" 
-"i want the rent under 2000"
+"show me the properties list" 
